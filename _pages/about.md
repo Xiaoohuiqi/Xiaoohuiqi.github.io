@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Email address: qxh995@sjtu.edu.cn 
+Xiaohui Qi is currently an M.S. in Medicine in Shanghai Jiao Tong University, shanghai, China. /?/ research interests lie in 
 
-TEL: (86) 15618390912
-
-Address: No.197 Ruijin Er Lu, Shanghai 200025, China
+[click for contact information](https://xiaoohuiqi.github.io/contact)
 
 ## Education
-**M.S. in Medicine**, GPA：3.58/4.0 <br/>
+* **M.S. in Medicine**, GPA：3.58/4.0 <br/>
 2019 - 2023  <br/>
 Shanghai Jiao Tong University, Shanghai, China <br/>
 Major courses: clinical oncology, psychology, pediatrics, cell biology, microbiology, pathology and pathological diagnosis, translational toxicology <br/>
 Self-learned courses: probability and statistics, R programming and RStan, epidemiology, cancer biology, endocrinology
 
-**M.D.** GPA: 3.5/4.0 <br/>
+* **M.D.** GPA: 3.5/4.0 <br/>
 2014 - 2019  <br/>
 Guangxi Medical University, Guangxi, China <br/>
 Major courses: immunology, medical physics, biochemistry, genetics, pathophysiology, epidemiology, cell biology, histology & embryology, physiology, pharmacology, anatomy, neurology, pathology.
@@ -31,17 +29,17 @@ Major courses: immunology, medical physics, biochemistry, genetics, pathophysiol
 * TOEFL: &nbsp;&nbsp;99 (R:27 L:26 S:22 W:24) [09/2021]
 
 ## Research Experience
-**Hepatobiliary carcinoma Research** <br/>
+* **Hepatobiliary carcinoma Research** <br/>
 2020.03-2022.09 <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui, Prof. Min Cao & Prof. Hua Sun (From ZheJiang University)
  
-**Obesity and dyslipidemia research** <br/>
+* **Obesity and dyslipidemia research** <br/>
 2021.03-2022.05  <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui & Prof. Min Cao
 
-[more information](https://xiaoohuiqi.github.io/research)
+[click for more information](https://xiaoohuiqi.github.io/research)
 
 ## Publications
 1. **Xiaohui Qi**, Min Cao. Cholesterol mediates the effects of obesity and type 2 diabetes on biliary tract cancer: a Mendelian randomization study. eBiomidicine. 2022 Aug15. (Submitted).
@@ -57,7 +55,7 @@ Supervisors: Prof. Bin Cui & Prof. Min Cao
 * **Developer Tools**: R programming, Proficient in Microsoft office, AI, Photoshop.
 * **Technical Skills**: Statistical analysis, Medical database mining, Perform animal autopsy (mouse, rabbit, frog), Catheterize and infuse small animal arteries (mouse, rabbit, frog), Optical microscope, Sterile surgery.
 
-Honors & Awards
+## Honors & Awards
 * 2016, Excellent Award of the Third Basic Medical Laboratory Skills Competition
 * 2017, Third Prize of Medical Knowledge Competition of Guangxi Medical University
 * 2018, Guangxi Medical University Second Class Academic Scholarship
