@@ -29,12 +29,12 @@ Major courses: immunology, medical physics, biochemistry, genetics, pathophysiol
 * TOEFL: &nbsp;&nbsp;99 (R:27 L:26 S:22 W:24) [09/2021]
 
 ## Research Experience
-* **Hepatobiliary carcinoma Research** <br/>
+* **Hepatobiliary Carcinoma Research** <br/>
 2020.03-2022.09 <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui, Prof. Min Cao & Prof. Hua Sun (From ZheJiang University)
  
-* **Obesity and dyslipidemia research** <br/>
+* **Obesity and Dyslipidemia Research** <br/>
 2021.03-2022.05  <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui & Prof. Min Cao
