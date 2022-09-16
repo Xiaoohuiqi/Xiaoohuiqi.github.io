@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Hepatobiliary Carcinoma Research
-2020.03-2022.09 <br/>
+2020.03 - 2022.09 <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui, Prof. Min Cao & Prof. Hua Sun (From ZheJiang University)
 
@@ -26,7 +26,7 @@ Supervisors: Prof. Bin Cui, Prof. Min Cao & Prof. Hua Sun (From ZheJiang Univers
 
 
 ## Obesity and Dyslipidemia Research
-2021.03-2022.05  <br/>
+2021.03 - 2022.05  <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui & Prof. Min Cao
 

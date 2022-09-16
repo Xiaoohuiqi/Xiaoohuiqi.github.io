@@ -19,23 +19,23 @@ Shanghai Jiao Tong University, Shanghai, China <br/>
 Major courses: clinical oncology, psychology, pediatrics, cell biology, microbiology, pathology and pathological diagnosis, translational toxicology <br/>
 Self-learned courses: probability and statistics, R programming and RStan, epidemiology, cancer biology, endocrinology
 
-* **M.D.** GPA: 3.5/4.0 <br/>
+* **M.D.**, GPA: 3.5/4.0 <br/>
 2014 - 2019  <br/>
 Guangxi Medical University, Guangxi, China <br/>
 Major courses: immunology, medical physics, biochemistry, genetics, pathophysiology, epidemiology, cell biology, histology & embryology, physiology, pharmacology, anatomy, neurology, pathology.
 
 ## Language Proficiency Test 
-* TOEFL: 104 (R:30 L:28 S:21 W:25) [10/2021]
-* TOEFL: &nbsp;&nbsp;99 (R:27 L:26 S:22 W:24) [09/2021]
+* **TOEFL**: 104 (R:30 L:28 S:21 W:25), 2021.10
+* **TOEFL**: &nbsp;&nbsp;99 (R:27 L:26 S:22 W:24), 2021.09
 
 ## Research Experience
 * **Hepatobiliary Carcinoma Research** <br/>
-2020.03-2022.09 <br/>
+2020.03 - 2022.09 <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui, Prof. Min Cao & Prof. Hua Sun (From ZheJiang University)
  
 * **Obesity and Dyslipidemia Research** <br/>
-2021.03-2022.05  <br/>
+2021.03 - 2022.05  <br/>
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine <br/>
 Supervisors: Prof. Bin Cui & Prof. Min Cao
 
