@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiaohui Qi is currently an M.S. in Medicine in Shanghai Jiao Tong University, shanghai, China. /?/ research interests lie in 
+Xiaohui Qi is a master's student in medicine at Shanghai Jiao Tong University. Her research interests lie in exploring the mechanisms of cancer development and finding therapeutic targets, with a particular interest in liver, bile duct and pancreatic cancers. 
 
 [click for contact information](https://xiaoohuiqi.github.io/contact)
 
@@ -44,11 +44,6 @@ Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai Chin
 ### Obesity and Dyslipidemia Research:
 * **Xiaohui Qi**, Bin Cui, Min Cao. The role of morning plasma cortisol in obesity: a bi-directional Mendelian randomization study. *The Journal of Clinical Endocrinology & Metabolism*. 2022 Jan 9: dgac008. doi: 10.1210/clinem/dgac008.
 * Zizheng Zhang, Yang Su, Renjie Jing, Jiying Qi, **Xiaohui Qi**, Zhen Xie, Bin Cui. Acute and lag effects of ambient fine particulate matter on the incidence of dyslipidemia in Chengdu, China: a time-series study. *Environmental Science and Pollution Research*. 2022 Jan 24. doi: 10.1007/s11356-021-18400-7.
-
-## Skills & Language
-* **Wet lab**: Animal autopsy, Anesthesia and surgery, Animal arterial cannulation and infusion, Cell stains, Optical microscopy
-* **Dry lab**: R, Python, AI, Photoshop, Statistical analysis, Medical database mining
-* **Languages**: Fluent in English (TOEFL 101) and Mandarin
 
 ## Honors & Awards
 * 2016, Excellent Award of the Third Basic Medical Laboratory Skills Competition
