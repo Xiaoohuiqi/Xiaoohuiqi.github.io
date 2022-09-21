@@ -13,7 +13,7 @@ Xiaohui Qi is a clinician and a master's student in Medicine at Shanghai Jiao To
 [click for contact information](https://xiaoohuiqi.github.io/contact)
 
 ## Education
-**Master of Medicine**        <p style="text-align:right;">2019 - 2023</p>
+**Master of Medicine** <span style="float:right;">2019 - 2023</span>  <br/> 
 Shanghai Jiao Tong University, Shanghai, China <br/>
   * **Major courses**: clinical oncology, psychology, pediatrics, cell biology, microbiology, pathology and pathological diagnosis, translational toxicology
   * **Self-learned courses**: probability and statistics, R, Python, machine learning, epidemiology, cancer biology, endocrinology
@@ -23,7 +23,7 @@ Guangxi Medical University, Guangxi, China <br/>
   * **Major courses**: immunology, medical physics, biochemistry, genetics, pathophysiology, epidemiology, cell biology, histology & embryology, physiology, pharmacology, anatomy, neurology, pathology.
 
 ## Research Experience
-**<p style="text-align:left;">Hepatobiliary Cancer Research<span style="float:right;">2019.11 - present</span></p>**
+**Hepatobiliary Cancer Research** <span style="float:right;">2019.11 - present</span>  <br/> 
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China <br/>
 * ### The effect of type 2 diabetes and obesity on biliary tract cancer with cholesterol and total bilirubin adjusted
      * **Responsibility**: principal study designer and independent researcher, thesis selection, research framework development, code building, statistical analysis and data visualization, manuscript writing and preparing for publication, reply to review comments
@@ -39,7 +39,7 @@ Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, Chi
   * **Responsibility**: project leader and correspondence author, thesis selection, conceptualization,literature search, manuscript writing and preparing for publication, reply to review comments
   * **Significance**: This review shows that the complex effects of insulin and incretin-based drugs as well as the heterogeneity of biliary tract cancer prevent a consistent conclusion among the observational studies. We suggest that both epidemiological and experimental studies should classify these drugs and biliary tract cancer specifically into different subtypes during the future investigation.
  
-**<p style="text-align:left;">Obesity and Dyslipidemia Research<span style="float:right;">2021.03 - 2022.05</span></p>**
+**Obesity and Dyslipidemia Research** <span style="float:right;">2021.03 - 2022.05</span>  <br/> 
 Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai China <br/>
 * ### The causal relationship between morning plasma cortisol levels and obesity
   * **Responsibility**: primary study designer and independent researcher, thesis selection, research framework development, code building, statistical analysis and data visualization, manuscript writing and preparing for publication, reply to review comments
