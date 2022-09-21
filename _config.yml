@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaohui Qi"
+title                    : "Xiaohui (Olivia) Qi"
 title_separator          : "-"
-name                     : &name "Xiaohui Qi"
+name                     : &name "Xiaohui (Olivia) Qi"
 description              : &description "personal description"
 url                      : https://Xiaoohuiqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaohui Qi"
-  avatar           : "profile.png"
-  bio              : "A master's student in medicine at Shanghai Jiao Tong University"
+  name             : "Xiaohui (Olivia) Qi"
+  avatar           : "qi.jpg"
+  bio              : "Master's student in medicine at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
