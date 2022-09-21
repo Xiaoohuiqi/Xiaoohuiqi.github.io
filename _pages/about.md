@@ -13,7 +13,7 @@ Xiaohui Qi is a clinician and a master's student in Medicine at Shanghai Jiao To
 [click for contact information](https://xiaoohuiqi.github.io/contact)
 
 ## Education
-**<p style="text-align:left;">Master of Medicine<span style="float:right;">2019 - 2023</span></p>**
+<p style="text-align:left;"> Master of Medicine <span style="float:right;">2019 - 2023</span></p>
 Shanghai Jiao Tong University, Shanghai, China <br/>
   * **Major courses**: clinical oncology, psychology, pediatrics, cell biology, microbiology, pathology and pathological diagnosis, translational toxicology
   * **Self-learned courses**: probability and statistics, R, Python, machine learning, epidemiology, cancer biology, endocrinology
