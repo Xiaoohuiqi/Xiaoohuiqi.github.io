@@ -18,7 +18,7 @@ Shanghai Jiao Tong University, Shanghai, China <br/>
   * **Major courses**: clinical oncology, psychology, pediatrics, cell biology, microbiology, pathology and pathological diagnosis, translational toxicology
   * **Self-learned courses**: probability and statistics, R, Python, machine learning, epidemiology, cancer biology, endocrinology
 
-**Bachelor of Medicine (M.D. -equivalent)** <span style="float:right;">2014 - 2019</span></p>
+**Bachelor of Medicine (M.D. -equivalent)** <span style="float:right;">2014 - 2019</span>  <br/> 
 Guangxi Medical University, Guangxi, China <br/>
   * **Major courses**: immunology, medical physics, biochemistry, genetics, pathophysiology, epidemiology, cell biology, histology & embryology, physiology, pharmacology, anatomy, neurology, pathology.
 
